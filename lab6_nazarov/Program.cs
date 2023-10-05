@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите n: ");
+//Вариант 6, Средний уровень
+Console.WriteLine("Введите n: ");
 int n = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите x: ");
 double x = int.Parse(Console.ReadLine());
